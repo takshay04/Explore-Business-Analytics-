@@ -1,4 +1,4 @@
-# The Sparks Foundation: Graduate Rotational Internship Program 
+`The Sparks Foundation: Graduate Rotational Internship Program` 
 
 ## To Explore Supervised Machine Learning :- Simple-Linear-Regression
 ### Task_1 :- In this we will predict the percentage of marks that a student is expected to score based upon the number of hours they studied.
